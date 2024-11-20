@@ -1,4 +1,4 @@
-# 👋 Hi, I’m martin@planetkosy
+# 👋 Hallo, Ich bin martin@planetkosy
 
 ## Über mich
 
