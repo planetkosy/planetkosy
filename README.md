@@ -11,7 +11,7 @@
 
 ### Meine Projekte
 
-- **[Immobilien Suchauftrag Funnel](https://github.com/planetkosy/immobilien-funnel)**: Ein Plugin für WordPress, das als Klickfunnel Immobilien-Suchaufträge erfasst und verarbeitet.
+- **[Immobilien Suchauftrag Funnel](https://github.com/planetkosy/immo-funnel-plugin)**: Ein Plugin für WordPress, das als Klickfunnel Immobilien-Suchaufträge erfasst und verarbeitet.
 - **Mehr Projekte folgen in Kürze!**
 
 ---
