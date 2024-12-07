@@ -12,6 +12,7 @@
 ### Meine Projekte
 
 - **[Immobilien Suchauftrag Funnel](https://github.com/planetkosy/immo-funnel-plugin)**: Ein Plugin für WordPress, das als Klickfunnel Immobilien-Suchaufträge erfasst und verarbeitet.
+- **[Rocket Wars Game](https://github.com/planetkosy/rocket-wars-plugin)**: Ein sehr einfaches Space-Arcade-Game als Plugin für WordPress.
 - **Mehr Projekte folgen in Kürze!**
 
 ---
